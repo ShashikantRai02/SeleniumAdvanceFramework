@@ -17,7 +17,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 public class TestVWOLogin_03_Retry_Prop_Improved_POM extends CommonToAllTest {
     private static final Logger logger = LogManager.getLogger(TestVWOLogin_03_Retry_Prop_Improved_POM.class);
 
-    @Owner("PRAMOD")
+    @Owner("Shashikant Rai")
     @Description("Verify that invalid creds give error message")
     @Test
     public void testFail() {
@@ -27,7 +27,7 @@ public class TestVWOLogin_03_Retry_Prop_Improved_POM extends CommonToAllTest {
         Assert.assertTrue(false);
     }
 
-    @Owner("PRAMOD")
+    @Owner("Shashikant Rai")
     @Description("Verify that invalid creds give error message")
     @Test
     public void testPass() {

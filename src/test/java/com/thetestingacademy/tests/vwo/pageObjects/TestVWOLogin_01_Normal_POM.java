@@ -19,13 +19,13 @@ public class TestVWOLogin_01_Normal_POM {
     // V
 
 
-    @Owner("PRAMOD")
+    @Owner("Shashikant Rai")
     @Description("Verify that with invalid email, pass, error message is shown on the app.vwo.com")
     @Test
     public void test_negative_vwo_login() {
 
         // Driver Manager Code - 1 - D
-        WebDriver driver = new ChromeDriver();
+        WebDriver driver = new ChromeDriver();// This is not the best way to do it, we will see better ways in upcoming sessions. For now, this is fine.
 
 
         // Page Class Code (POM Code) - 2 - L
@@ -43,7 +43,7 @@ public class TestVWOLogin_01_Normal_POM {
 
 
 
-    @Owner("PRAMOD")
+    @Owner("Shashikant Rai")
     @Description("TC#2-Verify that valid creds dashboard page is loaded")
     @Test
     public void testLoginPositiveVWO() {

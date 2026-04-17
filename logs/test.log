@@ -167,3 +167,642 @@
 2026-03-31 22:39:06 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
 2026-03-31 22:39:06 INFO  ScreenshotListener - Test passed: testPass
 2026-03-31 22:39:07 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:24:45 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:24:49 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:24:49 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-03-31 23:24:49 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-03-31 23:25:02 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-03-31 23:25:02 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-03-31 23:25:02 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-03-31 23:25:03 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:25:03 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-03-31 23:25:12 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-03-31 23:25:12 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-03-31 23:25:23 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-03-31 23:25:23 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-03-31 23:25:41 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-03-31 23:25:41 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:25:44 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:25:44 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-03-31 23:25:44 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:25:53 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-03-31 23:25:53 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-03-31 23:25:54 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:25:54 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:25:56 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:25:56 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:00 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:00 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:01 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:01 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:03 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:03 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:08 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:08 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:09 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:09 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:11 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:11 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:14 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:14 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:15 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:15 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:17 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:17 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:21 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:23 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-03-31 23:26:23 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_31_03_2026_11_26_21.png
+2026-03-31 23:26:24 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-03-31 23:26:24 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:24 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:26 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:26 INFO  ScreenshotListener - Starting test: testPass
+2026-03-31 23:26:30 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:30 INFO  ScreenshotListener - Test passed: testPass
+2026-03-31 23:26:30 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:31 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:33 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:33 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:37 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:37 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:38 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:38 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:40 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:40 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:43 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:43 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:44 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:44 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:46 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:46 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:49 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:49 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:26:49 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:49 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:26:51 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:26:51 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:26:52 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:26:56 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-03-31 23:26:56 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_31_03_2026_11_26_52.png
+2026-03-31 23:26:56 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-03-31 23:26:58 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:26:58 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:27:00 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:27:00 INFO  ScreenshotListener - Starting test: testPass
+2026-03-31 23:27:03 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:27:03 INFO  ScreenshotListener - Test passed: testPass
+2026-03-31 23:27:04 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:30:03 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:30:07 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:30:07 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-03-31 23:30:07 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-03-31 23:30:19 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-03-31 23:30:19 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-03-31 23:30:19 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-03-31 23:30:19 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:30:19 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-03-31 23:30:28 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-03-31 23:30:28 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-03-31 23:30:46 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-03-31 23:30:46 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-03-31 23:31:09 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-03-31 23:31:09 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:12 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:12 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-03-31 23:31:12 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:22 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-03-31 23:31:22 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-03-31 23:31:23 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:23 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:25 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:25 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:31:28 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:28 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:31:29 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:29 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:31 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:31 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:31:34 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:34 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:31:35 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:35 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:37 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:37 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:31:41 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:41 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:31:41 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:41 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:44 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:44 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:31:50 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:51 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-03-31 23:31:51 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_31_03_2026_11_31_50.png
+2026-03-31 23:31:52 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-03-31 23:31:53 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:53 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:31:55 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:31:55 INFO  ScreenshotListener - Starting test: testPass
+2026-03-31 23:31:58 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:31:58 INFO  ScreenshotListener - Test passed: testPass
+2026-03-31 23:31:58 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:31:58 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:32:01 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:32:01 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:32:04 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:32:04 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:32:04 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:32:04 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:32:07 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:32:07 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:32:07 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:32:07 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:32:08 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:32:08 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:32:10 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:32:10 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:32:10 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:32:10 WARN  ScreenshotListener - Test skipped: testFail
+2026-03-31 23:32:11 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:32:11 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:32:13 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:32:13 INFO  ScreenshotListener - Starting test: testFail
+2026-03-31 23:32:16 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:32:18 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-03-31 23:32:18 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_31_03_2026_11_32_16.png
+2026-03-31 23:32:19 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-03-31 23:32:21 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-03-31 23:32:21 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-03-31 23:32:23 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-03-31 23:32:23 INFO  ScreenshotListener - Starting test: testPass
+2026-03-31 23:32:27 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-03-31 23:32:27 INFO  ScreenshotListener - Test passed: testPass
+2026-03-31 23:32:28 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:05:25 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:05:32 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:05:32 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 11:05:32 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 11:05:42 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 11:05:42 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 11:05:42 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 11:05:43 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:05:43 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 11:05:51 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 11:05:51 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 11:06:19 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 11:06:19 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:06:31 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:06:31 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:06:33 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:06:33 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:06:33 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:06:41 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 11:06:41 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:06:42 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:06:42 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:06:44 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:06:44 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:06:48 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:06:50 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 11:06:50 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_06_48.png
+2026-04-03 11:06:50 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:06:53 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:06:53 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:06:55 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:06:55 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:06:59 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:06:59 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:07:00 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:07:00 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:07:02 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:07:02 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:07:05 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:07:06 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 11:07:06 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_07_05.png
+2026-04-03 11:07:07 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:07:07 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:07:07 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:07:10 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:07:10 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:07:12 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:07:12 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:07:14 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:09:56 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:10:00 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:10:00 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:10:04 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:10:06 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 11:10:06 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_10_05.png
+2026-04-03 11:10:07 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:10:10 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:10:10 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:10:13 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:10:13 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:10:16 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:10:16 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:10:17 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:11:01 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:11:04 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:11:07 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:11:09 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:11:09 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:11:12 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:11:18 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:11:20 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:11:20 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:11:23 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:11:25 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:11:25 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:11:25 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:11:28 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:11:31 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:11:32 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:11:32 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:11:32 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:11:34 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:11:42 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:11:42 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:12:18 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:12:22 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:12:22 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 11:12:22 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 11:12:35 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 11:12:35 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 11:12:35 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 11:12:35 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:12:35 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 11:12:45 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 11:12:45 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:13:03 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:13:03 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 11:13:24 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 11:13:24 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:13:27 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:13:27 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:13:27 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:13:40 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 11:13:40 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:13:46 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:13:46 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:13:49 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:13:49 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:13:54 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:13:54 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:13:56 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:13:56 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:13:59 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:13:59 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:14:00 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:00 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:14:00 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:00 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:04 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:04 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:14:04 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:04 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:14:06 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:06 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:10 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:10 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:14:11 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:21 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 11:14:21 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_14_11.png
+2026-04-03 11:14:22 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:14:23 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:23 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:26 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:26 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:14:32 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:32 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:14:33 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:33 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:37 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:37 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:14:45 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:45 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:14:47 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:47 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:52 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:52 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:14:56 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:14:56 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:14:56 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:14:56 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:14:59 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:14:59 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:15:03 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:15:03 WARN  ScreenshotListener - Test skipped: testFail
+2026-04-03 11:15:04 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:15:04 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:15:07 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:15:07 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:15:10 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:15:12 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 11:15:12 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_15_10.png
+2026-04-03 11:15:13 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:15:14 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:15:14 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:15:17 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:15:17 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:15:21 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:15:21 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:15:22 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:19:06 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:19:09 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:19:09 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 11:19:09 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 11:19:21 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 11:19:21 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 11:19:21 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 11:19:31 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:19:31 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 11:19:43 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 11:19:43 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 11:20:11 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 11:20:11 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:20:32 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:20:32 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:20:35 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:20:35 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 11:20:35 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:20:46 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 11:20:46 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 11:20:49 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:20:49 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:20:54 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:20:54 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:20:54 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:21:07 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 11:21:07 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_20_54.png
+2026-04-03 11:21:07 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:21:11 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:21:11 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:21:14 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:21:14 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:21:15 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:21:15 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:21:17 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:21:17 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:21:20 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:21:20 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 11:21:20 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:21:28 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 11:21:28 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_11_21_20.png
+2026-04-03 11:21:29 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 11:21:36 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 11:21:36 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 11:21:39 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 11:21:39 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 11:21:39 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 11:21:39 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 11:21:40 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:15:29 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:15:33 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:15:33 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 12:15:33 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 12:15:43 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 12:15:43 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 12:15:43 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 12:15:44 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:15:44 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 12:15:51 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 12:15:51 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 12:16:11 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 12:16:11 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:16:27 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:16:27 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:16:29 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:16:29 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:16:29 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:16:37 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 12:16:37 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:16:37 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:16:37 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:16:39 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:16:39 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:16:42 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:16:43 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 12:16:43 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_16_42.png
+2026-04-03 12:16:44 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:16:44 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:16:44 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:16:46 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:16:46 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:16:50 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:16:50 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:16:50 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:16:50 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:16:52 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:16:52 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:16:57 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:16:58 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 12:16:58 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_16_57.png
+2026-04-03 12:16:58 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:16:59 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:16:59 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:17:01 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:17:01 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:17:05 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:17:05 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:17:05 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:18:54 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:18:56 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:18:56 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 12:18:56 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 12:19:07 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 12:19:07 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 12:19:07 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 12:19:07 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:19:07 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 12:19:15 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 12:19:15 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 12:19:38 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 12:19:38 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:19:49 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:19:49 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:19:52 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:19:52 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:19:52 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:19:58 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 12:19:58 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:19:59 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:19:59 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:20:01 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:20:01 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:20:04 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:20:04 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 12:20:04 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_20_04.png
+2026-04-03 12:20:05 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:20:06 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:20:06 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:20:08 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:20:08 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:20:10 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:20:10 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:20:10 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:20:10 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:20:12 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:20:12 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:20:15 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:20:17 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 12:20:17 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_20_15.png
+2026-04-03 12:20:17 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:20:17 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:20:17 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:20:20 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:20:20 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:20:22 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:20:22 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:20:23 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:23:29 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:23:31 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:23:31 INFO  ScreenshotListener - Starting test: testLoginNegativeVWO_PF
+2026-04-03 12:23:31 INFO  TestVWOLogin_PF - Starting the Testcases Page Factory
+2026-04-03 12:23:41 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2026-04-03 12:23:41 INFO  TestVWOLogin_PF - Finished the Testcases Page Factory
+2026-04-03 12:23:41 INFO  ScreenshotListener - Test passed: testLoginNegativeVWO_PF
+2026-04-03 12:23:42 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:23:42 INFO  ScreenshotListener - Starting test: test_vwo_login
+2026-04-03 12:23:50 INFO  ScreenshotListener - Test passed: test_vwo_login
+2026-04-03 12:23:50 INFO  ScreenshotListener - Starting test: testLoginPositiveVWO
+2026-04-03 12:24:11 INFO  ScreenshotListener - Test passed: testLoginPositiveVWO
+2026-04-03 12:24:11 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:24:23 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:24:23 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:24:25 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:24:25 INFO  ScreenshotListener - Starting test: test_negative_vwo_login
+2026-04-03 12:24:25 INFO  TestVWOLogin_02_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:24:33 INFO  TestVWOLogin_02_Prop_Improved_POM - Asserting the invalid credentials
+2026-04-03 12:24:33 INFO  ScreenshotListener - Test passed: test_negative_vwo_login
+2026-04-03 12:24:33 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:24:33 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:24:35 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:24:35 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:24:38 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:24:39 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_03_Retry_Prop_Improved_POM
+2026-04-03 12:24:39 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_24_38.png
+2026-04-03 12:24:39 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:24:40 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:24:40 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:24:42 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:24:42 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:24:44 INFO  TestVWOLogin_03_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:24:44 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:24:45 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:24:45 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:24:47 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:24:47 INFO  ScreenshotListener - Starting test: testFail
+2026-04-03 12:24:50 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:24:51 INFO  ScreenshotListener - Screenshot captured for failed test: testFail in class: com.thetestingacademy.tests.vwo.pageObjects.TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM
+2026-04-03 12:24:51 INFO  ScreenshotListener - Screenshot saved to: failure_screenshots/testFail_03_04_2026_12_24_50.png
+2026-04-03 12:24:51 INFO  CommonToAllTest - Screenshot attached to Allure for failed test: testFail
+2026-04-03 12:24:52 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-03 12:24:52 INFO  DriverManager - Initializing WebDriver - Browser: chrome, Mode: local, Headless: false
+2026-04-03 12:24:54 INFO  DriverManager - WebDriver initialized successfully for thread: 1
+2026-04-03 12:24:54 INFO  ScreenshotListener - Starting test: testPass
+2026-04-03 12:24:55 INFO  TestVWOLogin_04_TakeScreen_Retry_Prop_Improved_POM - Starting the Testcases Page Object Model
+2026-04-03 12:24:55 INFO  ScreenshotListener - Test passed: testPass
+2026-04-03 12:24:55 INFO  DriverManager - WebDriver quit successfully for thread: 1
+2026-04-14 15:07:30 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:07:30 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:07:35 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:07:36 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:07:41 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:07:41 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:07:47 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:07:47 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 15:07:52 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:07:52 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:07:57 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:07:57 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:08:03 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:08:03 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:08:08 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:08:08 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 15:15:39 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:15:39 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:15:44 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:15:45 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:15:50 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:15:50 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:15:54 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:15:54 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 15:15:58 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:15:59 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:16:04 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:16:05 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:16:10 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:16:10 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:16:15 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:16:15 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 15:20:19 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:20:19 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:20:23 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:20:23 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:20:27 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:20:27 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:20:31 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:20:32 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 15:20:36 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:20:36 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:20:40 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:20:40 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:20:44 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:20:44 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:20:49 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:20:49 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 15:25:14 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:25:14 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:25:14 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:25:14 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 15:57:34 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 15:57:34 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 15:57:34 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 15:57:34 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 16:02:18 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 16:02:18 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 16:02:18 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 16:02:18 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 16:03:44 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 16:03:44 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 16:03:44 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 16:03:44 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 16:04:53 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 16:04:53 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 16:04:53 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 16:04:53 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 16:11:45 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 16:11:45 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 16:11:45 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 16:11:45 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 17:01:15 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 17:01:15 WARN  ScreenshotListener - Test skipped: testInvalidLogin
+2026-04-14 17:01:15 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 17:01:15 WARN  ScreenshotListener - Test skipped: testValidLogin
+2026-04-14 17:05:08 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 17:05:08 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 17:05:12 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 17:05:13 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 21:33:11 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 21:33:12 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 21:33:17 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 21:33:17 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 21:36:14 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 21:36:17 INFO  ScreenshotListener - Test passed: testInvalidLogin
+2026-04-14 21:36:22 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 21:36:23 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin
+2026-04-14 21:38:26 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 21:38:29 INFO  ScreenshotListener - Test passed: testInvalidLogin
+2026-04-14 21:38:35 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 21:38:37 INFO  ScreenshotListener - Test passed: testValidLogin
+2026-04-14 22:06:16 INFO  ScreenshotListener - Starting test: testResetFilters
+2026-04-14 22:06:27 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testResetFilters
+2026-04-14 22:06:34 INFO  ScreenshotListener - Starting test: testSearchUser
+2026-04-14 22:06:45 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testSearchUser
+2026-04-14 22:27:17 INFO  ScreenshotListener - Starting test: testResetFilters
+2026-04-14 22:27:27 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testResetFilters
+2026-04-14 22:27:33 INFO  ScreenshotListener - Starting test: testSearchUser
+2026-04-14 22:27:44 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testSearchUser
+2026-04-14 22:27:51 INFO  ScreenshotListener - Starting test: testInvalidLogin
+2026-04-14 22:27:51 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testInvalidLogin
+2026-04-14 22:27:56 INFO  ScreenshotListener - Starting test: testValidLogin
+2026-04-14 22:27:56 WARN  ScreenshotListener - WebDriver is null, cannot capture screenshot for test: testValidLogin

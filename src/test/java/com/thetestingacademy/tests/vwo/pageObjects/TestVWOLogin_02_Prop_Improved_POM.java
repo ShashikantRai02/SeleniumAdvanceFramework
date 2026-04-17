@@ -21,7 +21,7 @@ public class TestVWOLogin_02_Prop_Improved_POM extends CommonToAllTest {
 
     private static final Logger logger = LogManager.getLogger(TestVWOLogin_02_Prop_Improved_POM.class);
 
-    @Owner("PRAMOD")
+    @Owner("Shashikant Rai")
     @Description("Verify that with invalid email, pass, error message is shown on the app.vwo.com")
     @Test
     public void test_negative_vwo_login() {

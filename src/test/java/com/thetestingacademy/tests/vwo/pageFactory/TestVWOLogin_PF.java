@@ -2,7 +2,7 @@ package com.thetestingacademy.tests.vwo.pageFactory;
 
 import com.thetestingacademy.baseTest.CommonToAllTest;
 import com.thetestingacademy.driver.DriverManager;
-import com.thetestingacademy.pages.PF.vwo.LoginPage_PF;
+import com.thetestingacademy.pages.PageFactory.vwo.LoginPage_PF;
 import com.thetestingacademy.utils.PropertiesReader;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

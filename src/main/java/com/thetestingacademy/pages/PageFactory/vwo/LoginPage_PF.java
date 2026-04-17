@@ -1,4 +1,4 @@
-package com.thetestingacademy.pages.PF.vwo;
+package com.thetestingacademy.pages.PageFactory.vwo;
 
 import com.thetestingacademy.base.CommonToAll;
 import com.thetestingacademy.utils.PropertiesReader;
